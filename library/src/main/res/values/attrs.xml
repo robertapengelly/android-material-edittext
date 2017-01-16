@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+
+    <!-- Bright complement to the primary branding color. By default, this is the color applied
+         to framework controls (via colorControlActivated). -->
+    <attr format="color" name="colorAccent" />
+    
+    <!-- The color applied to framework controls in their activated (ex. checked) state. -->
+    <attr format="color" name="colorControlActivated" />
+    
+    <!-- The color applied to framework controls in their normal state. -->
+    <attr format="color" name="colorControlNormal" />
+    
+    <!-- EditText text foreground color. -->
+    <attr format="reference|color" name="editTextColor" />
+
+</resources>
