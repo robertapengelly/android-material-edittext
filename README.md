@@ -1,6 +1,6 @@
-# Android Lollipop Drawables
+# MaterialEditText
 
-Backported material styled EditTet for use on pre-lollipop devices. Supports Android 2.3 API 9 (GINGERBREAD) and up.
+Backported material styled EditText for use on pre-lollipop devices. Supports Android 2.3 API 9 (GINGERBREAD) and up.
 
 Preview
 
