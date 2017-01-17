@@ -4,7 +4,7 @@ Backported material styled EditTet for use on pre-lollipop devices. Supports And
 
 Preview
 
-![lollipopdrawablesexample](https://cloud.githubusercontent.com/assets/5245027/21935050/ce4c0c1e-d9a3-11e6-9506-181e3190cae6.gif)
+![materialedittextexample](https://cloud.githubusercontent.com/assets/5245027/22003572/99e59cf0-dc4c-11e6-88bb-f3997a27b5ff.gif)
 
 # Installation
 
