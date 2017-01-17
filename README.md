@@ -31,7 +31,7 @@ Preview
     
     Pre-Honycomb devices (values/styles.xml)
     
-    The following style are material defaults for the theme. Change the values to better suit your needs.
+    The following style attributes are material defaults for the theme. Change the values to better suit your app.
     
         <style name="AppTheme" parent="@android:style/Theme.NoTitleBar">
             <item name="android:textColorPrimary">@color/primary_text_default_material_dark</item>
@@ -51,7 +51,7 @@ Preview
     
     Honycomb and newer (values-v11/styles.xml)
     
-    The following style are material defaults for the theme. Change the values to better suit your needs.
+    The following style attributes are material defaults for the theme. Change the values to better suit your app.
     
         <style name="AppTheme" parent="@android:style/Theme.Holo.NoActionBar">
             <item name="android:textColorPrimary">@color/primary_text_default_material_dark</item>
@@ -73,7 +73,7 @@ Preview
     
     Lollipop and newer (values-v21/styles.xml)
     
-    The following style are lollipop defaults for the theme. Change the values to better suit your needs.
+    The following style attributes are lollipop defaults for the theme. Change the values to better suit your app.
     
         <style name="AppTheme" parent="@android:style/Theme.Material.NoActionBar">
             <item name="android:textColorPrimary">@color/primary_text_default_material_dark</item>
