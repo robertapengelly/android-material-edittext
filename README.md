@@ -106,5 +106,5 @@ Preview
                     android:hint="MaterialEditText"
                     android:layout_height="wrap_content"
                     android:layout_width="match_parent" />
-                
-                </LinearLayout>
+            
+            </LinearLayout>
